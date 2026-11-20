@@ -8,24 +8,24 @@ To train model you need to use packages from requirements.txt
 
 #### For Mac
 To use virtual environment 
-`bash
+```bash
 cd Machine-Learning-II-final-project
 python -m venv .venv
 source .venv/scripts/activate
-`
+```
 
 #### For Windows
 To use virtual environment 
-`bash
+```bash
 cd Machine-Learning-II-final-project
 python -m venv .venv
 source .venv/scripts/activate
-`
+```
 
 #### To install everything
-`bash
+```bash
 pip install -r requirements.txt
-`
+```
 
 Note that you should have latest version of pip installed
 
